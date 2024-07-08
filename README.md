@@ -1,4 +1,4 @@
 Для запуска в консоли:
 
-`javac GameOfLife.java`
-`java GameOfLife`
+1. `javac GameOfLife.java`
+2. `java GameOfLife`
