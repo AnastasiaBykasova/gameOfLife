@@ -10,7 +10,7 @@ public class GameOfLife extends JFrame implements ActionListener {
     private JButton stopButton; // Кнопка "Стоп"
     private JButton clearButton; // Кнопка "Очистить"
     private JButton[][] cellButtons; // Массив кнопок игрового поля
-    private int delay = 100; // Задержка в миллисекундах
+    private int delay = 500; // Задержка в миллисекундах
 
     public GameOfLife(int size) {
         this.size = size;
